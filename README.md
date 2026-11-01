@@ -29,16 +29,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" />
 </p>
-
----
-
-### 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arbazy999&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazy999&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 ---
 
 ### 🚀 Current Learning Goals
